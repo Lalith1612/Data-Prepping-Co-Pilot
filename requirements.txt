@@ -1,4 +1,4 @@
-streamlit
+Netlify
 pandas
 numpy
 pydantic
